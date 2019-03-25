@@ -12,6 +12,9 @@ useful packages for sublime
 1. SublimeCodeIntel  自动提示
 2. JsFormat 压缩/解压，排版js
 
+# Annotation
+1. DocBlockr 注释插件
+
 # color
 1.colorPick mac颜色提取，ctrl+shift+c 
    和convertToUtf8 快捷键冲突
