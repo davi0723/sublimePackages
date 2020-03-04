@@ -31,9 +31,11 @@
 }
 ```
 ## packages
+```
 eslint
 path Intellisense
 prettier eslint
 vetur
 vs sequential number
 vue 2 snippets
+```
